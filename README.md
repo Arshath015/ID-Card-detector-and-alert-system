@@ -75,3 +75,10 @@ Contributions to improve this project are welcome. Feel free to submit issues an
 This project is licensed under the MIT License.
 
 
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
